@@ -3,16 +3,16 @@
 [![Build status][travis-image]][travis-url]
 [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Сергей Попов](https://htmlacademy.ru/profile/id42761).
-* Наставник: [Наталья Ёркина](https://htmlacademy.ru/profile/id50014).
+* Студент: [Виктор](https://htmlacademy.ru/profile/).
+* Наставник: [Самостоятельно](https://htmlacademy.ru/profile/).
 
 ### Немного о себе
 
 ##### Вы прошли интенсивный онлайн-курс «Базовый HTML и CSS»?
-`Да, успешно`.
+'Нет, я сразу записался на базовый JS'
 
 ##### Вы прошли интенсивный онлайн-курс «Продвинутый HTML и CSS»?
-`Да, успешно`.
+'Нет, я сразу записался на базовый JS'
 
 ---
 
